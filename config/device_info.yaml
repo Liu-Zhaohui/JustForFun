@@ -1,0 +1,7 @@
+- device: 3EP7N19114003487
+  app: "D:\\\u53CD\u8BC8\u9879\u76EE\\\u4E91\u5251\u53CD\u8BC8\\\u5E94\u7528\u5907\
+    \u4EFD\\\u4E91\u5251\u53CD\u8BC8apk\\1.0.0.1028\\antifraud-official.apk"
+  package: com.trimps.antifraud
+  activity: com.qihoo360.callsafe.ui.index.AppEnterActivity
+  appium_port: 4724
+  bootstrap_port: 4725

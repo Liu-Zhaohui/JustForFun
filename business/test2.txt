@@ -1,0 +1,196 @@
+2021-02-26 16:18:13,174 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:18:13,370 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:42:30,492 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:42:30,672 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:43:02,722 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:43:02,899 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:46:10,139 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:46:10,312 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:48:16,939 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:48:17,153 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:49:28,775 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:49:28,973 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:49:38,361 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:49:38,531 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-02-26 16:51:54,290 util.logger DEBUG taskkill -F -PID node.exe
+2021-02-26 16:51:54,464 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:20:53,618 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:20:53,907 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:28:26,260 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:28:26,418 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:28:41,332 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:28:41,492 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:30:22,832 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:30:23,036 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:30:36,803 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:30:36,997 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:39:08,992 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:39:09,145 util.logger DEBUG appium -p 4723 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 13:39:42,531 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 13:39:42,759 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 17:17:30,616 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 17:17:30,775 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 17:19:46,013 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 17:19:46,207 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-01 17:21:19,832 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-01 17:21:20,033 util.logger DEBUG appium -p 4723 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-10 17:38:14,774 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-10 17:38:14,969 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-10 17:40:15,473 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-10 17:40:15,638 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-10 17:44:01,094 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-10 17:44:01,251 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:06:27,348 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:06:27,555 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:15:58,758 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:15:58,758 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:15:58,916 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:15:58,916 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:16:23,141 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:16:23,141 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:16:23,298 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:16:23,298 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:19:31,078 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:19:31,078 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:19:31,273 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:19:31,273 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:21:58,235 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:21:58,235 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:21:58,436 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:21:58,436 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:24:16,316 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:24:16,316 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:24:16,500 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:24:16,500 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:24:52,254 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:24:52,254 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:28:16,988 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:28:16,988 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:28:17,236 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:28:17,236 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:29:57,350 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:29:57,350 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:29:57,576 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:29:57,576 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:32:38,973 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:32:38,973 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:32:39,161 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:32:39,161 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:32:59,036 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:32:59,036 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:32:59,242 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:32:59,242 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:33:34,961 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:33:34,961 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:39:21,607 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:39:21,607 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:39:21,763 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:39:21,763 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:39:55,206 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:39:55,206 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:39:55,398 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:39:55,398 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:40:30,501 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:40:30,501 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:44:23,521 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:44:23,521 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:44:23,700 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:44:23,700 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:45:00,876 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:45:00,876 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:48:44,565 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:48:44,565 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 13:48:44,727 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:48:44,727 util.logger DEBUG appium -p 4724 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 13:49:19,632 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 13:49:19,632 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 14:01:45,515 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 14:01:45,515 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 14:01:45,668 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 14:01:45,668 util.logger DEBUG appium -p 4727 -bp 4728 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 14:02:04,863 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 14:02:04,863 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 14:02:05,095 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 14:02:05,095 util.logger DEBUG appium -p 4724 -bp 4727 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 14:02:41,869 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 14:02:41,869 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 22:28:23,920 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 22:28:23,920 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 22:28:24,165 util.logger DEBUG appium -p 4723 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 22:28:24,165 util.logger DEBUG appium -p 4723 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 22:29:06,340 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 22:29:06,340 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 22:29:06,620 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 22:29:06,620 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 23:10:59,848 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 23:10:59,848 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 23:11:00,062 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 23:11:00,062 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 23:11:37,269 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 23:11:37,269 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 23:11:37,672 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 23:11:37,672 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 23:13:07,897 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 23:13:07,897 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-23 23:13:08,165 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 23:13:08,165 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-23 23:13:45,261 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 23:13:45,261 util.logger INFO Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-23 23:13:45,590 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-23 23:13:45,590 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-24 13:40:00,052 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:40:00,052 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:40:00,218 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:40:00,218 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:41:19,600 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:41:19,600 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:41:19,750 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:41:19,750 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:44:13,410 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:44:13,410 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:44:13,582 util.logger DEBUG appium -p 4726 -bp 4730 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:44:13,582 util.logger DEBUG appium -p 4726 -bp 4730 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:45:55,330 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:45:55,330 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:45:55,501 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:45:55,501 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:47:35,142 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:47:35,142 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-24 13:47:35,302 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-24 13:47:35,302 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 11:27:57,074 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 11:27:57,074 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 11:27:57,270 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 11:27:57,270 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 11:28:35,504 util.logger WARNING Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-26 11:28:35,504 util.logger WARNING Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-26 11:28:36,315 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-26 11:28:36,315 util.logger INFO inputidcom.qihoo360.mobilesafe.blockmgr:id/er18344662558
+2021-03-26 17:26:54,212 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 17:26:54,212 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 17:26:54,362 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 17:26:54,362 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 17:27:23,511 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 17:27:23,511 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-26 17:27:23,694 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 17:27:23,694 util.logger DEBUG appium -p 4723 -bp 4724 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-26 17:28:03,578 util.logger WARNING Message: An element could not be located on the page using the given search parameters.
+
+2021-03-26 17:28:03,578 util.logger WARNING Message: An element could not be located on the page using the given search parameters.
+
+2021-03-26 17:28:03,763 util.logger WARNING Message: An element could not be located on the page using the given search parameters.
+
+2021-03-26 17:28:03,763 util.logger WARNING Message: An element could not be located on the page using the given search parameters.
+
+2021-03-26 17:28:03,872 util.logger WARNING Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+
+2021-03-26 17:28:03,872 util.logger WARNING Message: An unknown server-side error occurred while processing the command. Original error: Cannot rewrite element locator '没有这个' to its complete form, because the current application package name is unknown. Consider providing the app package name or changing the locator to '<package_name>:id/没有这个' format.
+

@@ -1,0 +1,8 @@
+2021-03-30 16:56:10,704 __main__ INFO info
+2021-03-30 16:56:10,704 __main__ DEBUG debug
+2021-03-30 16:56:10,704 __main__ WARNING warn
+2021-03-30 16:56:10,704 __main__ ERROR error
+2021-03-30 17:09:03,359 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-30 17:09:03,359 util.logger DEBUG taskkill -F -PID node.exe
+2021-03-30 17:09:03,512 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
+2021-03-30 17:09:03,512 util.logger DEBUG appium -p 4724 -bp 4725 -U 3EP7N19114003487 --no-reset --session-over
